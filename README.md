@@ -27,12 +27,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Rutvabhatt19/Mirrorwall/assets/118719070/3f59f263-3890-4a90-aa65-b1cbba170a44" alt="Splash Screen" width="250"></td>
     <td><img src="https://github.com/Rutvabhatt19/Mirrorwall/assets/118719070/910c3310-e677-4636-9714-eccd0d0fd38a" alt="Browser Interface" width="250"></td>
-    <td><img src="https://github.com/Rutvabhatt19/Mirrorwall/assets/118719070/bde4001b-3681-4834-bfb2-e2b3463c89d8" alt="Bookmark Page" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/Mirrorwall/assets/118719070/4ac56f0d-dd91-46db-880c-6a335a7f60ad" alt="Bookmark Page" width="250"></td>
   </tr>
   <tr>
-    <td align="center">Splash Screen</td>
     <td align="center">Browser Interface</td>
     <td align="center">Bookmark Page</td>
   </tr>
