@@ -4,7 +4,6 @@
 <p><strong>A Flutter app featuring an animated splash screen and integrated web browsing.</strong></p>
 
 <img class="badge" src="https://img.shields.io/badge/Flutter-v2.0%2B-blue?style=flat&logo=flutter" alt="Flutter">
-<img class="badge" src="https://img.shields.io/badge/License-MIT-green" alt="License">
 
 <hr>
 
